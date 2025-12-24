@@ -1,12 +1,12 @@
-# [Nome do Projeto]
+# RPG Shop
 
 ## Descrição
-[Explique o que seu sistema faz em 2-3 linhas]
+Projeto Java simulando uma loja de RPG.
 
 ## Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- Permite adicionar itens no carrinho de compras;
+- Gera um total sempre que adicionar itens no carrinho;
+- Caso o total cumpra a regra de desconto, é aplicado um desconto no valor total;
 
 ## Tecnologias
 - Java
@@ -18,5 +18,6 @@
 3. Execute a classe principal
 
 ## Autor
-[Seu Nome]
+Lucas Moura
+
 Curso: Java Quest
